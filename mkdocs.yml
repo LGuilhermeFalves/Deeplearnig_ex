@@ -132,11 +132,6 @@ extra_javascript:
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
 
 nav:
-  - Home: index.md
-  - This documentation: ./thisdocumentation/main.md
-  - Roteiros:
-    - Roteiro 1: ./roteiro1/main.md
-    - Roteiro 2: ./roteiro2/main.md
-    - Roteiro 3: ./roteiro3/main.md
-    - Roteiro 4: ./roteiro4/main.md
-  - Projeto: ./projeto/main.md
+  - Exercício 1: "Exercício 1/ex1.md"
+  - Exercício 2: "Exercício 2/ex2.md"
+  - Exercício 3: "Exercício 3/ex3.md"

@@ -84,3 +84,5 @@ plt.title('Distribuição das classes com limites de decisão (Exercício 1)')
 plt.legend()
 plt.grid(True)
 plt.show()
+
+```

@@ -159,7 +159,7 @@ if candidates:
     plt.close()
 ```
 
-Foi salvo pipeline e metadados em preprocess_pipeline.joblib para reuso e reprodução das mesmas transformações em validação/produção. Depois, foi gerado histogramas para Age e para uma segunda variável numérica disponível (entre FoodCourt, VRDeck, RoomService, Spa, ShoppingMall), mostrando antes e depois do StandardScaler.
+Foi salvo pipeline e metadados em preprocess_pipeline.joblib para reuso e reprodução das mesmas transformações em validação/produção. Depois, foi gerado histogramas para Age e para  FoodCourt, mostrando antes e depois do StandardScaler.
 
 
 ### Visualizações (antes × depois do *scaling*)

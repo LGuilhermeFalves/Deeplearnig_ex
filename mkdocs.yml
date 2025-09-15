@@ -132,6 +132,10 @@ extra_javascript:
   - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
 
 nav:
-  - Exercício 1: "Exercício 1/ex1.md"
-  - Exercício 2: "Exercício 2/ex2.md"
-  - Exercício 3: "Exercício 3/ex3.md"
+  - Ex1:
+      - Exercício 1: "Ex1/Exercício 1/ex1.md"
+      - Exercício 2: "Ex1/Exercício 2/ex2.md"
+      - Exercício 3: "Ex1/Exercício 3/ex3.md"
+  - Ex2 — Perceptron:
+      - Exercício 4: "Ex2_Perceptron/Exercício 4/perception1.md"
+      - Exercício 5: "Ex2_Perceptron/Exercício 5/perception2.md"

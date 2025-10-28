@@ -108,10 +108,7 @@ plugins:
   - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
-  - git-authors
-  - git-committers:
-      repository: hsandmann/hsandmann.github.com
-      branch: main
+
   - search
   - badges
   - minify:
@@ -144,3 +141,5 @@ nav:
       - Exercício 7: "Ex3_Mlp/Ex7/mlp2.md"
       - Exercício 8: "Ex3_Mlp/Ex8/mlp3.md"
       - Exercício 9: "Ex3_Mlp/Ex9/mlp4.md"
+  - Ex4 — VAE:
+      - Exercício 10: "Ex4_Vae/vae.md"

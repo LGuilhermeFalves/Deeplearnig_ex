@@ -129,8 +129,7 @@ Confusion matrix:
 
 ![PCA Verdadeiro](ex4_pca_true.png) 
 ![PCA Predito](ex4_pca_pred.png) 
-![Perda durante o treino](ex4_train_loss.png) 
-![Resultados](ex4_results.txt)
+![Perda durante o treino](ex4_train_loss.png)
 
 ---
 
@@ -139,5 +138,3 @@ Confusion matrix:
 A versão mais profunda do MLP (duas camadas ocultas) atingiu **~81.3% de acurácia** no conjunto de teste. A profundidade permitiu modelar estruturas mais complexas dos dados em relação ao modelo de camada única, e a curva de perda demonstra melhoria contínua durante o treino.
 
 ---
-
-Arquivo salvo: `/mnt/data/Exercicio4_MLP_Deep.md`

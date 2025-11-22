@@ -143,3 +143,6 @@ nav:
       - Exercício 9: "Ex3_Mlp/Ex9/mlp4.md"
   - Ex4 — VAE:
       - Exercício 10: "Ex4_Vae/vae.md"
+  - Projeto 3 — Stable Diffusion:
+      - ComfyUI Pipeline: "Projeto3_StableDiffusion/stable_diffusion.md"
+  - Repositório de Códigos: "repositorio.md"

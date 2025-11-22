@@ -1,6 +1,4 @@
-# Relatório - Geração de Imag## 4. Conexões entre os nodes
-
-| Origem | Saída | Destino | Entrada |com Stable Diffusion (ComfyUI)
+# Relatório - Geração de Imagem com Stable Diffusion (ComfyUI)
 
 ## 1. Objetivo
 
